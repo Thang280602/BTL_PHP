@@ -27,7 +27,7 @@
       mysqli_query($conn, "DELETE FROM `cart` WHERE user_id = '$user_id'") or die('query failed');
       header('location:cart.php');
    }
-   echo 'hihi';
+
 
 ?>
 
