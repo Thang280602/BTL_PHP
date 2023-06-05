@@ -65,7 +65,7 @@ if(isset($message)){
 ?>
    
 <div class="form-container">
-
+   <img src="images/img-back.jpg" alt="" >
    <form action="" method="post">
       <h3>Đăng nhập</h3>
       <input type="email" name="email" placeholder="Email" required class="box">

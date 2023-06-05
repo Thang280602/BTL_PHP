@@ -21,7 +21,7 @@
          <p> <i class="fas fa-phone"></i> +84123456789 </p>
          <p> <i class="fas fa-phone"></i> +84987654321 </p>
          <p> <i class="fas fa-envelope"></i> abc@gmail.com </p>
-         <p> <i class="fas fa-map-marker-alt"></i> Hà nội - Việt Nam </p>
+         <p> <i class="fas fa-map-marker-alt"></i> Hà Nội - Việt Nam </p>
       </div>
 
       <div class="box">
@@ -34,6 +34,6 @@
 
    </div>
 
-   <p class="credit"> &copy; copyright  @ <?php echo date('Y'); ?> by <span> Nhóm 7 _ PHP2022</span> </p>
+   <p class="credit"> &copy; copyright  @ <?php echo date('Y'); ?> by <span> Nhóm 8-202220503184005</span> </p>
 
 </section>

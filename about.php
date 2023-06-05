@@ -145,47 +145,46 @@
    <div class="box-container">
 
       <div class="box">
-         <img src="images/author-1.jpg" alt="">
+         <img src="images/1.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>Nguyễn Duy Hùng</h3>
+         <h3>Đặng Hữu Thắng</h3>
+      </div>
+      <div class="box">
+         <img src="images/2.jpg" alt="">
+         <div class="share">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-linkedin"></a>
+         </div>
+         <h3>Nguyễn Hữu Thịnh</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-2.jpg" alt="">
+         <img src="images/3.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>Trần Minh Thái</h3>
+         <h3>Vi Hoàng Giang</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-3.jpg" alt="">
+         <img src="images/4.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>Hoàng Quốc Chung</h3>
-      </div>
-
-      <div class="box">
-         <img src="images/author-5.jpg" alt="">
-         <div class="share">
-            <a href="#" class="fab fa-facebook-f"></a>
-            <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-instagram"></a>
-            <a href="#" class="fab fa-linkedin"></a>
-         </div>
-         <h3>Phan Mạnh Hoàng</h3>
+         <h3>Nguyễn Thế Hoàng</h3>
       </div>
 
    </div>
